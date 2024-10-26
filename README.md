@@ -32,7 +32,7 @@ These proposals are currently under investigation. Each Explainer includes a "st
 
 | Explainer | Issues | Feedback | Category |
 | --------- | ------ | -------- | -------- |
-| [Example Explainer](example-explainer.md) | ---- | ---- | Blockchain Infrastructure |
+| [Example Explainer](/explainers/example-explainer.md) | ---- | ---- | Blockchain Infrastructure |
 
 ## Graduates 🎓
 
@@ -57,7 +57,7 @@ Projects no longer being pursued are listed here. We encourage new approaches to
 To submit an improvement idea for Bastyon:
 
 1. **Create the Explainer**
-   - Clone the [explainer template](/Explainers/templates/explainer-template.md)
+   - Clone the [explainer template](/explainers/templates/explainer-template.md)
    - Name it descriptively and save in the `/explainers` folder
    - Complete all sections
    - Submit a PR
