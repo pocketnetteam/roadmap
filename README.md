@@ -43,7 +43,7 @@ Successfully graduated Explainers are archived here with updated documentation s
 
 ## Other Documents
 
-[Bastyon Roadmap](/Roadmap/roadmap.md)
+[Bastyon Roadmap](/roadmap/roadmap.md)
 
 ## Withdrawn
 
