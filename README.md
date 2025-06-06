@@ -33,13 +33,16 @@ These proposals are currently under investigation. Each Explainer includes a "st
 | Explainer | Issues | Feedback | Category |
 | --------- | ------ | -------- | -------- |
 | [Example Explainer](/explainers/example-explainer.md) | ---- | ---- | Blockchain Infrastructure |
+| [Communities (Groups)](/explainers/communities/README_ru.md) | ---- | ---- | Social Features |
+
 
 ## Graduates 🎓
 
 Successfully graduated Explainers are archived here with updated documentation status and links to their current development venues.
 
 | Current Explainer | Current Venue | Archive Link and Date |
-| ---------------- | ------------- | -------------------- |
+| ----------------- | ------------- | --------------------- |
+
 
 ## Other Documents
 
