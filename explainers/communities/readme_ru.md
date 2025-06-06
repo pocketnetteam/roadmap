@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="readme.md">en</a> | </b>ru</b>
+</div>
+
 # Сообщества (Группы)
 
 ## Авторство:
