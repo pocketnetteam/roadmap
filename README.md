@@ -32,7 +32,7 @@ These proposals are currently under investigation. Each Explainer includes a "st
 
 | Explainer | Issues | Feedback | Category |
 | --------- | ------ | -------- | -------- |
-| [Example Explainer](/explainers/example-explainer.md) | ---- | ---- | Blockchain Infrastructure |
+| [Example Explainer](/explainers/example-explainer/readme.md) | ---- | ---- | Blockchain Infrastructure |
 | [Communities (Groups)](/explainers/communities/readme.md) | ---- | ---- | Social Features |
 
 
