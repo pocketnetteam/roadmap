@@ -34,6 +34,8 @@ These proposals are currently under investigation. Each Explainer includes a "st
 | --------- | ------ | -------- | -------- |
 | [Example Explainer](/explainers/example-explainer/readme.md) | ---- | ---- | Blockchain Infrastructure |
 | [Communities (Groups)](/explainers/communities/readme.md) | ---- | ---- | Social Features |
+| [Universal Social Transaction (UST)](/explainers/ust/readme.md) | ---- | ---- | Blockchain Infrastructure |
+
 
 
 ## Graduates 🎓
