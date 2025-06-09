@@ -11,7 +11,7 @@ Bastyon Development Team
 Universal Social Transaction (UST) can help expand the capabilities of nodes in terms of storing and processing transactions, without a specific binding to content, it acts as a free "action" in the Bastyon network.
 
 ## Goals
-List the goals that should be achieved within this document. Remember - this document is a kind of technical specification, so it should contain the most precise instructions and steps for implementing the project.
+- A flexible tool for implementing multiple mechanisms not described in the node consensus.
 
 ## Proposal
 
