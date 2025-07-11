@@ -31,6 +31,6 @@ To implement the functionality, it is proposed to use the OP_RETURN field with t
 
 ## Implementation
 
-The first version will be implemented in PIP 116 (?)
+The first version will be implemented in PIP 115 [PR #880](https://github.com/pocketnetteam/pocketnet.core/pull/880)
 
 ## Technical Details
