@@ -31,6 +31,10 @@ Bastyon Development Team
 
 ## Реализация
 
-Первая версия будет реализована в PIP 116 (?)
+Первая версия будет реализована в PIP 115 [PR #880](https://github.com/pocketnetteam/pocketnet.core/pull/880)
 
 ## Технические детали
+
+Проверка валидности транзакции будет реализована на основе текущего механизма выставления Баджей в `ChainPostTransaction.cpp::IndexBadges`.
+
+Для реализации 
